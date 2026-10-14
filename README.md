@@ -34,7 +34,8 @@ while($true){
 *a while loop that checks XboxGames and Users every ten seconds.*
 
 So we just have to repeat the command "findkill" with the directory (absolute path)
-as its argument.
+as its argument. The execute in the powershell terminal (might work on other enviroments, 
+but no promises)
 
 ## = Stage =
 
