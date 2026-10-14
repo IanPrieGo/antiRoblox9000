@@ -1,17 +1,15 @@
 # Anti-Roblox 9000
-***
 A friend asked me to create a script that would detect a roblox file and delete it. 
 This is so that the children that he gives class to in a school dont use that horrible predator app. 
 So thought to share it with the world, the script is simple, but effective. 
 I accept suggestions about making it stronger and better.
 
-*Ps. For the moment we dont have admin acces so we can deal with that for now*
+*Ps. For the moment we dont have admin acces so we can't deal with that for now*
 
-			### ***- Nox -***
+### ***- Nox -***
 
 
 ## == Contents ==
-***
 + Usage
 + Stage
 + Frequently Asked Questions
@@ -22,7 +20,7 @@ Currently, you just put the script wherever you like (make sure to save it to th
 or somwhere ease to acces atleast). Inside the script you put all the folders that you want 
 to check for roblox files, this is how:
 
-´´´
+```powershell
 while($true){ 
 
 	findkill "C:/XboxGames/"
@@ -30,7 +28,8 @@ while($true){
 	
 	Start-Sleep -Seconds 10
 }
-´´´ 
+```
+
 *In this snippet we see the "main" function of the script,*
 *a while loop that checks XboxGames and Users every ten seconds.*
 
