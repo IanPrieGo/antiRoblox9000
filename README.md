@@ -11,7 +11,6 @@ I accept suggestions about making it stronger and better.
 
 
 ## == Contents ==
-***
 + Usage
 + Stage
 + Frequently Asked Questions
