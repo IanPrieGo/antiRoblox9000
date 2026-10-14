@@ -1,5 +1,4 @@
 # Anti-Roblox 9000
-***
 A friend asked me to create a script that would detect a roblox file and delete it. 
 This is so that the children that he gives class to in a school dont use that horrible predator app. 
 So thought to share it with the world, the script is simple, but effective. 
