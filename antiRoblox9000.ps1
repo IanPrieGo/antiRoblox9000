@@ -1,4 +1,3 @@
-# "C:/Users/Ian Prieto Gomez/Desktop/Programacion/PablitoPablo/antiRoblox9000.ps1"
 
 function findkill($path){
 	
