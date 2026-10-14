@@ -4,7 +4,7 @@ This is so that the children that he gives class to in a school dont use that ho
 So thought to share it with the world, the script is simple, but effective. 
 I accept suggestions about making it stronger and better.
 
-*Ps. For the moment we dont have admin acces so we can deal with that for now*
+*Ps. For the moment we dont have admin acces so we can't deal with that for now*
 
 ### ***- Nox -***
 
