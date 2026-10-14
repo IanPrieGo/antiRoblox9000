@@ -7,7 +7,7 @@ I accept suggestions about making it stronger and better.
 
 *Ps. For the moment we dont have admin acces so we can deal with that for now*
 
-			### ***- Nox -***
+### ***- Nox -***
 
 
 ## == Contents ==
@@ -23,13 +23,13 @@ or somwhere ease to acces atleast). Inside the script you put all the folders th
 to check for roblox files, this is how:
 
 ´´´
-while($true){ 
+	while($true){ 
 
-	findkill "C:/XboxGames/"
-	findkill "C:/Users/"
-	
-	Start-Sleep -Seconds 10
-}
+		findkill "C:/XboxGames/"
+		findkill "C:/Users/"
+		
+		Start-Sleep -Seconds 10
+	}
 ´´´ 
 *In this snippet we see the "main" function of the script,*
 *a while loop that checks XboxGames and Users every ten seconds.*
