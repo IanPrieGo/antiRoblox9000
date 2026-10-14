@@ -22,7 +22,6 @@ Currently, you just put the script wherever you like (make sure to save it to th
 or somwhere ease to acces atleast). Inside the script you put all the folders that you want 
 to check for roblox files, this is how:
 
-´´´
 	while($true){ 
 
 		findkill "C:/XboxGames/"
@@ -30,7 +29,7 @@ to check for roblox files, this is how:
 		
 		Start-Sleep -Seconds 10
 	}
-´´´ 
+
 *In this snippet we see the "main" function of the script,*
 *a while loop that checks XboxGames and Users every ten seconds.*
 
